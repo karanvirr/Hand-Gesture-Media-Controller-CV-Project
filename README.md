@@ -22,3 +22,8 @@ To run this project, you must have Python installed on your device.
 5) Make the gestures (fist, 5 fingers open, peace sign, etc) in front of the webcam.
 
 6) The corresponding media control action will be performed and will be shown in the webcam feed.
+
+opencv-python
+mediapipe
+pyautogui
+pywin32
